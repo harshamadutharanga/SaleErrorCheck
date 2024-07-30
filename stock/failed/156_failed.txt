@@ -1,0 +1,3 @@
+Error running query for IP: 172.16.20.1
+Location: Weliweriya Arpico Daily
+Error: 2013 (HY000): Lost connection to MySQL server during query
